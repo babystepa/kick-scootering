@@ -1,4 +1,0 @@
-@excho off
-:x
-start explorer
-goto x
